@@ -107,9 +107,7 @@ using (var scope = app.Services.CreateScope())
 
 //    d.CreateSomeNeighbourhood(neighbourhoodManager, cityManager, districtManager);
 }
-
 app.Run(); //Uygulamayý burada calistirir.
-
 
 
 
